@@ -8,6 +8,7 @@ Hi im Sokin 🔮.
 🚀 I'm still learning languages like
 
 https://dev-sokin.xyz - My Website
+```
 
 ### Connect with me:
 
@@ -21,4 +22,3 @@ https://dev-sokin.xyz - My Website
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=s00kin&count_private=true&show_icons=true?theme=buefy)
 
 <br />
-```
