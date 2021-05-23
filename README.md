@@ -9,7 +9,7 @@ Hi im Sokin 🔮.
 
 https://dev-sokin.xyz - My Website
 ```
-
+<br />
 ### Connect with me:
 
 [<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
