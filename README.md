@@ -1,15 +1,19 @@
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
-### Hi im Sokin 👋
+```diff
+Hi im Sokin 🔮.
 
+@@Info@@
+📢 Im currently working on a FiveM Shbypass and Exec
+🚀 I'm still learning languages like
 
-- 📢 Im currently working on a FiveM Shbypass and Exec
-- 🚀 I'm still learning languages like
+https://dev-sokin.xyz - My Website
+
 ### Connect with me:
 
 [<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-
+[discord]: https://discord.gg/TwahSEZG9M
 <br />
-
 
 ### My Stats !
 
@@ -17,20 +21,4 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=s00kin&count_private=true&show_icons=true?theme=buefy)
 
 <br />
-
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][discord]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][discord]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][discord]
-[<img align="left" alt="c++" width="26px" src="http://146.59.45.202/github/cpp.png" />][discord]
-
-
-
-[discord]: https://discord.gg/TwahSEZG9M
-[strona]: https://dev-sokin.xyz
-
-
-<!--
-**s00kin/s00kin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
