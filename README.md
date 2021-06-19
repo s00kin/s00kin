@@ -7,7 +7,8 @@ Hi im Sokin 🔮.
 📢 Im currently working on a FiveM Shbypass and Exec
 🚀 I'm still learning languages like
 
-https://dev-sokin.xyz - My Website
+https://never-net.xyz/login.php
+https://dev-sokin.xyz/
 ```
 
 ### Connect with me:
