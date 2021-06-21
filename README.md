@@ -16,6 +16,9 @@ https://dev-sokin.xyz/
 [<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> https://discord.gg/TwahSEZG9M ]
 <br />
 
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/u5evr9xaqvek2g6tlpsqud7mz)
+
 ### My Stats !
 
 
