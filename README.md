@@ -1,14 +1,26 @@
+```
+      ,~~.
+     (  9 )-_,
+(\___ )=='-'
+ \ .   ) )
+  \ `-' /
+   `~j-'   sokin#6666
+     "=:
+                                                          
+```
+<h1 align="center">Hi <img src="https://dev-sokin.xyz/syf/Hi.gif" width="40px" />, I'm sokin</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=500&lines=.gg/sokin+|dev-sokin.xyz|+my+discord+is+sokin6666" />
+</p>
+
+
 <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 ```diff
-Hi im Sokin 🔮.
-
 @@Info@@
-📢 Im currently working on a FiveM Shbypass and Exec
 🚀 I'm still learning languages like
 
-https://never-net.xyz/login.php
-https://dev-sokin.xyz/
 ```
 
 ### Connect with me:
@@ -17,11 +29,16 @@ https://dev-sokin.xyz/
 <br />
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/u5evr9xaqvek2g6tlpsqud7mz)
+<p align="center">
+  <a href="https://andyruwruw.vercel.app/api/now-playing?open">
+    <img src="https://andyruwruw.vercel.app/api/now-playing">
+
 
 ### My Stats !
-
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=s00kin&count_private=true&show_icons=true?theme=buefy)
+
+
+## Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/s00kin/count.svg)
 
 <br />
