@@ -8,7 +8,7 @@
      "=:
                                                           
 ```
-<h1 align="center">Hi <img src="https://dev-sokin.xyz/syf/Hi.gif" width="40px" />, I'm sokin</h1>
+<h1 align="center">Hi <img src="https://sokin.eu/syf/Hi.gif" width="40px" />, I'm sokin</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=500&lines=Welcome+|dev-sokin.xyz|+discord.gg/sokin6" />
