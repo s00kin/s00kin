@@ -8,10 +8,10 @@
      "=:
                                                           
 ```
-<h1 align="center">Hi <img src="http://185.94.29.96/xd/syf/Hi.gif" width="40px" />, I'm sokin</h1>
+<h1 align="center">Hi <img src="https://sokin.eu/xd/syf/Hi.gif" width="40px" />, I'm sokin</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=500&lines=Welcome+|dev-sokin.xyz|+discord.gg/sokin6" />
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=500&lines=Welcome+|sokin.eu|+discord.gg/sokin6" />
 </p>
 
 
