@@ -11,7 +11,7 @@
 <h1 align="center">Hi <img src="https://sokin.eu/xd/syf/Hi.gif" width="40px" />, I'm sokin</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=500&lines=Welcome+|sokin.eu|+discord.gg/sokin6" />
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=500&lines=Welcome+|sokin.eu" />
 </p>
 
 
@@ -25,7 +25,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> https://discord.gg/TwahSEZG9M ]
+[<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> https://sokin.eu/ ]
 <br />
 
 ### Spotify Playing 🎧
