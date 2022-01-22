@@ -4,11 +4,12 @@
 (\___ )=='-'
  \ .   ) )
   \ `-' /
-   `~j-'   sokin#6666
+   `~j-'   sokin#1111
      "=:
                                                           
 ```
-<h1 align="center">Hi <img src="https://sokin.eu/xd/syf/Hi.gif" width="40px" />, I'm sokin</h1>
+
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/66147422/150655515-88af3f9e-18a7-46f6-b8de-0d2f3c4caa35.gif" width="40px" />, I'm sokin</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=500&lines=Welcome+|sokin.eu" />
@@ -30,8 +31,8 @@
 
 ### Spotify Playing 🎧
 <p align="center">
-  <a href="https://andyruwruw.vercel.app/api/now-playing?open">
-    <img src="https://andyruwruw.vercel.app/api/now-playing">
+  <a href="https://open.spotify.com/user/u5evr9xaqvek2g6tlpsqud7mz">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=u5evr9xaqvek2g6tlpsqud7mz&cover_image=true&theme=default&bar_color=b9f0b7)](https://github.com/kittinan/spotify-github-profile">
 
 
 ### My Stats !
