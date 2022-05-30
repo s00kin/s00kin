@@ -4,7 +4,7 @@
 (\___ )=='-'
  \ .   ) )
   \ `-' /
-   `~j-'   сокин#1111
+   `~j-'   sokin#1337
      "=:
                                                           
 ```
@@ -26,7 +26,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> https://sokin.eu/ ]
+[<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> https://hasbulla.lol/ ]
 <br />
 
 ### Spotify Playing 🎧
